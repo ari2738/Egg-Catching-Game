@@ -1,4 +1,5 @@
 🥚 Egg Catching Game 🎮
+
 📌 Project Description
 
 Egg Catching Game is a simple 2D game developed using Python and Pygame.
@@ -34,12 +35,4 @@ Press ➡ Right Arrow to move right
 
 Catch the falling egg to increase score
 
-🎯 Learning Outcomes
 
-Understanding game loop
-
-Working with images in Pygame
-
-Implementing collision detection
-
-Handling user input
